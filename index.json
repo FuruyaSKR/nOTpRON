@@ -246,6 +246,22 @@
       "Link": "http://notpron.org/notpron/screen30/",
       "Tab": "Right in the creators face",
       "Hint": "",
+      "Answer": "http://notpron.org/notpron/screen30/davidandhism2.htm",
+      "Username": "",
+      "Password": ""
+    },
+    "31": {
+      "Link": "http://notpron.org/notpron/screen30/davidandhism2.htm",
+      "Tab": "He forgot where he took it!",
+      "Hint": "Image name",
+      "Answer": "http://notpron.org/notpron/screen30/hirstein.htm",
+      "Username": "",
+      "Password": ""
+    },
+    "32": {
+      "Link": "http://notpron.org/notpron/screen30/hirstein.htm",
+      "Tab": "Ain't it?",
+      "Hint": "<!--little difference somewhere!-->",
       "Answer": "",
       "Username": "",
       "Password": ""
