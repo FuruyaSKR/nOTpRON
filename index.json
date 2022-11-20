@@ -261,7 +261,26 @@
     "32": {
       "Link": "http://notpron.org/notpron/screen30/hirstein.htm",
       "Tab": "Ain't it?",
-      "Hint": "<!--little difference somewhere!-->",
+      "Hint": [
+        "<!--little difference somewhere!-->",
+        "<!--the answer is macroscopic-->"
+      ],
+      "Answer": "http://notpron.org/notpron/screen30/macroscopic.htm",
+      "Username": "",
+      "Password": ""
+    },
+    "33": {
+      "Link": "http://notpron.org/notpron/screen30/macroscopic.htm",
+      "Tab": "Hit the any key",
+      "Hint": "<!--Be quiet+Anakin-->",
+      "Answer": "http://notpron.org/notpron/screen30/kewlday.htm",
+      "Username": "",
+      "Password": ""
+    },
+    "34": {
+      "Link": "http://notpron.org/notpron/screen30/kewlday.htm",
+      "Tab": "He needed it to carry on",
+      "Hint": "",
       "Answer": "",
       "Username": "",
       "Password": ""
